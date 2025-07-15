@@ -1,0 +1,16 @@
+1,Naruto Uzumaki,90,85,95,0
+2,Sasuke Uchiha,88,92,80,0
+3,Sakura Haruno,75,80,85,0
+4,Kakashi Hatake,85,90,78,0
+5,Itachi Uchiha,92,95,85,0
+6,Jiraiya,89,82,90,0
+7,Orochimaru,86,88,88,0
+8,Minato Namikaze,95,98,90,0
+9,Gaara,84,78,96,0
+10,Hinata Hyuga,78,93,82,0
+11,Shikamaru Nara,70,85,80,0
+12,Rock Lee,98,99,75,0
+13,Neji Hyuga,87,94,83,0
+14,Tsunade,96,75,99,0
+15,Madara Uchiha,99,99,99,0
+16,Hashirama Senju,98,95,100,0

@@ -1,0 +1,6 @@
+1,Rasengan,Kage Bunshin,Rasenshuriken,Oodama Rasengan,Senjutsu
+2,Chidori,Sharingan,Amaterasu,Susanoo,Katon
+3,Byakugo,Katsuyu,Oukashou,Chakra Control,Iryo Ninjutsu
+4,Raikiri,Sharingan,Kamui,Chidori,Suiton
+5,Tsukuyomi,Amaterasu,Susanoo,Katon,Izanami
+15,Susanoo,Tengai Shinsei,Katon,Mokuton,Rinnegan
